@@ -1,0 +1,5 @@
+CICE5 0.1° cores,Mean walltime per step (s),Mean CPU hr per step
+399,0.997,0.11
+799,0.512,0.114
+1599,0.286,0.127
+3199,0.173,0.153
